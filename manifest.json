@@ -1,0 +1,16 @@
+{
+    "name": "notnert",
+    "short_name": "notnert",
+    "description": "notnert.",
+    "start_url": "/",
+    "display": "fullscreen",
+    "theme_color": "white",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+          "src": "img/icon.png",
+          "sizes": "175x175",
+          "type": "image/png"
+        }
+      ]
+  }
