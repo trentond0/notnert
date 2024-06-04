@@ -1,0 +1,28 @@
+body {
+    text-align:center;
+}
+
+img {
+    width: 100%;
+    max-width: 500px;
+}
+
+iframe {
+    width: 100%;
+    max-width: 750px;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: black;
+        color: white;
+    }
+
+    a:link {
+        color: dodgerblue;
+    }
+
+    a:visited {
+        color: violet;
+    }
+}
